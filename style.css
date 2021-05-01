@@ -4,26 +4,6 @@ body{
     margin-top: 5%;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-
-button {
-    display: block;
-    margin: auto;
-    text-align: center;
-    width: 20%;
-}
-
-#start-prompt{
-    margin: auto;
-    display: block;
-    text-align: center;
-    width: 80%;
-}
-#questions{
-    margin: auto;
-    display: block;
-    text-align: center;
-    width: 80%;
-}
 footer{
     background-color: goldenrod;
 }
