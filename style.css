@@ -2,6 +2,7 @@ body{
     background-color: pink;
     color: purple;
     margin-top: 5%;
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 button {
