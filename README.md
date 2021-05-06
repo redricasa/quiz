@@ -1,10 +1,6 @@
-# Divest quiz
-Acronym by Christelyn Karazin AKA The Pink Pill- author of "Swirling".
+# The purple effort 
+> A single page app to serve as a point of reference for those who wish to purchase courses from Christelyn Karazin AKA the Pink Pill and Kendal St. Charles AKA Kay.  
 
-This quiz is meant to be a fun exercise for reinforcing what divesting means. :) 
-
-a basic vanilla JavaScript app with a counter/timer that starts when you click on the 'Start' button. 
-Got the starter code from mcolumbusua21.
 
 ## TODO next
 
