@@ -1,10 +1,12 @@
 body{
-    background-color: pink;
+    background-color: #e6ee9c;
     color: purple;
     margin-top: 5%;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-footer{
-    background-color: goldenrod;
+
+.card-title{
+    font-family: 'Dancing Script', cursive;
 }
+    
 /* TODO give 25% margin on the left side of screen and 10% top margin */
