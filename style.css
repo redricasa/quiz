@@ -9,4 +9,11 @@ body{
     font-family: 'Dancing Script', cursive;
 }
     
-/* TODO give 25% margin on the left side of screen and 10% top margin */
+/* TODO: 
+- give 25% margin on the left side of screen and 10% top margin
+- vertical and text-alight the plus buttons in the cards
+- add KsC's facebook page link as a button */
+
+.email {
+    /* add something to make the text pop out */
+}
